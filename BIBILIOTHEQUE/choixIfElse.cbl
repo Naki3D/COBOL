@@ -1,0 +1,9 @@
+        IDENTIFICATION DIVISION.
+         PROGRAM-ID. 'IF-ELSE'.
+        ENVIRONEMENT DIVISION.
+        DATA DIVISION.
+          WORKING-STORAGE SECTION.
+        PROCEDURE DIVISION.
+
+        STOP RUN.
+          
